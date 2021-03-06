@@ -4,7 +4,7 @@
 
 I love tinkering and creating new projects. I am also an artist! Talking to people is awesome and I would love to chat about Tech, AI, Quantum Physics and cross domain Machine learning anytime.
 
-Do have a look at my [Blog](https://www.subhadityamukherjee.me/deconstructingdl.html)!!!
+Do have a look at my [Blog](https://www.subhadityamukherjee.me/)!!!
 
 > Reach out
 
