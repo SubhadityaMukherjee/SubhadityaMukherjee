@@ -8,7 +8,7 @@ Do have a look at my [Blog](https://www.subhadityamukherjee.me/)!!!
 
 > Reach out
 
-Want to reach out? See my projects -> [Go to my website](https://subhadityamukherjee.me/)
+Want to reach out? See my projects -> [Go to my website](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/)
 Linkedin -> [Link](https://www.linkedin.com/in/subhaditya-mukherjee-a36883100)
 Drop me an email -> [Link](mukherjeesubhaditya001@gmail.com)
 
