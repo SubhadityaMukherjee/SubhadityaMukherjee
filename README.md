@@ -1,6 +1,6 @@
 # About me
 
-## Hello! I am Subhaditya Mukherjee. Great to meet you!! :)
+## Hello! I am Subhaditya Mukherjee. Great to meet you!! :) 
 
 I love tinkering and creating new projects. I am also an artist! Talking to people is awesome and I would love to chat about Tech, AI, Quantum Physics and cross domain Machine learning anytime.
 
@@ -8,21 +8,19 @@ Do have a look at my [Blog](https://subhadityamukherjee.github.io/SubhadityaMukh
 
 > Reach out
 
-Want to reach out? See my projects -> [Go to my website](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/)
-Linkedin -> [Link](https://www.linkedin.com/in/subhaditya-mukherjee-a36883100)
-Drop me an email -> [Link](mukherjeesubhaditya001@gmail.com)
+- [My website](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/), [Linkedin](https://www.linkedin.com/in/subhaditya-mukherjee-a36883100), [Email](mukherjeesubhaditya001@gmail.com)
 
 > Cool projects
 
-I code a lot so here's some of the projects I am proud of. I cannot possibly add all of them so do look at my [Github](https://github.com/SubhadityaMukherjee/)
-
-- A lot of papers and my notes/implementations -> [Link](https://github.com/SubhadityaMukherjee/PaperImplementations)
-- De haze images! -> [Link](https://github.com/SubhadityaMukherjee/deHazer)
-- Selectively export a Jupyter notebook? -> [Link](https://github.com/SubhadityaMukherjee/notebook2script.jl)
-- Tired of rotating images? -> [Link](https://github.com/SubhadityaMukherjee/rotationFixer)
-- Want a date? -> [Link](https://github.com/SubhadityaMukherjee/speedDating)
-- Fill outlines with color? -> [Link](https://github.com/SubhadityaMukherjee/AIAdaptiveFill)
-
+I code a lot, and there are a lot of repositories, (200+) so I structured them a little bit. Here you will find whatever you are looking for.
+- [Useful Utilities](https://github.com/orgs/utility-code/repositories)
+- [Deep learning Code using Fastai](https://github.com/orgs/Fast-AI-Code/repositories)
+- [Classical ML code](https://github.com/orgs/Classical-machine-learning/repositories)
+- [Julia](https://github.com/orgs/old-julia-codes/repositories)
+- [Fun personal projects](https://github.com/orgs/fun-personal-projects/repositories)
+- [Some mildly useful code](https://github.com/orgs/mildly-useful-codes/repositories)
+- [Codes from old classes I attended/took](https://github.com/orgs/old-class-codes/repositories)
+- [Some linux builds](https://github.com/orgs/linux-stuff-codes/repositories)
 
 > Art
 
