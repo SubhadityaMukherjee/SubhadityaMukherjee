@@ -8,7 +8,7 @@ Do have a look at my [Blog](https://subhadityamukherjee.github.io/SubhadityaMukh
 
 > Reach out
 
-- [My website](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/), [Linkedin](https://www.linkedin.com/in/subhaditya-mukherjee-a36883100), [Email](mukherjeesubhaditya001@gmail.com)
+- [My website](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/), [Linkedin](https://www.linkedin.com/in/subhaditya-mukherjee-a36883100), [Email](msubhaditya@gmail.com)
 
 > Cool projects
 
@@ -24,7 +24,7 @@ I code a lot, and there are a lot of repositories, (200+) so I structured them a
 
 > Art
 
-Do you like art too? Here is my [art page](https://www.instagram.com/aiexistential/). I would love to see yours too.
+Do you like art too? Here is my [art page](https://www.instagram.com/aiexistentialart/). I would love to see yours too.
 
 > Starting Deep learning? Here are some links to help you out :)
 
