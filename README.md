@@ -6,6 +6,8 @@ I love tinkering and creating new projects. I am also an artist! Talking to peop
 
 Do have a look at my [Blog](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/)!!!
 
+- [Freelance Projects I worked on](https://gist.github.com/SubhadityaMukherjee/33199900d252bc38175195df55642540)
+
 > Reach out
 
 - [My website](https://subhadityamukherjee.github.io/SubhadityaMukherjeegit/), [Linkedin](https://www.linkedin.com/in/subhaditya-mukherjee-a36883100), [Email](msubhaditya@gmail.com)
